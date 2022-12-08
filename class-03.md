@@ -1,7 +1,5 @@
 ## [reading-notes](https://cheryldee.github.io/reading-notes/)
 
-[Main Page](https://cheryldee.github.io/reading-notes/)
-
 ### HTML Lists, Control Flow w/JS, CSS Box Model
 
 #### Ordered &amp; Unordered lists
@@ -21,3 +19,6 @@
 4. The result would be 'invalid' due to different data types: number, string, boolean = invalid operation.
 5. When a choice need to be made whether to walk or drive a short distance. If sunny = walk, elseif raining = drive.
 6. Use a loop to cycle through an array to assign values to a number of items in an array.
+
+
+[Main Page](https://cheryldee.github.io/reading-notes/)
