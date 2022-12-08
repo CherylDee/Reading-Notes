@@ -13,7 +13,7 @@ _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my re
   - [Domain Modeling, HTML Tables, Constructors](https://cheryldee.github.io/reading-notes/class-07)
   - [CSS Layout, Flexbox](https://cheryldee.github.io/reading-notes/class-08)
   - [HTML Forms and JS Events](https://cheryldee.github.io/reading-notes/class-09)
-  - [Debugging HTML, CSS & JS](https://cheryldee.github.io/reading-notes/class-10)
+  - [Debugging JavaScript](https://cheryldee.github.io/reading-notes/class-10)
   - [Video &amp; Audio Content, Grid](https://cheryldee.github.io/reading-notes/class-11)
   - [Chart.js, JS Canvas](https://cheryldee.github.io/reading-notes/class-12)
   - [Local Storage for Web Applications](https://cheryldee.github.io/reading-notes/class-13)
