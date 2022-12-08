@@ -17,6 +17,6 @@
 4.  An if statement checks a _condition_ and if it evaluates to _true_ then the code will execute.
 5.  The _elseif_ statement runs when the condition is not met, then the 2nd if statement executes if the condition is met.
 6.  Three comparison operators:  ==, <, > 
-7.  Logical operator is both conditions are true, and is used is either condition is true.
+7.  The Logical operator && = both conditions are true, and || = either condition is true.
 
 [Main Page](https://cheryldee.github.io/reading-notes/)
