@@ -1,0 +1,9 @@
+## [reading-notes](https://cheryldee.github.io/reading-notes/)
+### CSS Layout - Flexbox
+  1. The Flexible Box Layout Model (flexbox) is a layout model designed for one-dimensional content to aid in responsive design. The way it works is it takes a bunch of items which have different sizes, and returng the best layout for those items.  Instead of setting rigid dimensions for the browser to follow, flexbox instead provide flexible boundaries to hint how the content could display.
+  2. The main axis is set by the flex-direction property, depending on the row or column where the main axis is located. This allows flex items to move as a group on the main axis to find the best fit or layout. The cross axis runs in the opposite direction of the main axis so as to allow the flex-direction to cross axis of the main axis.
+  3. The row-reverse and column reverse are two flexbox properties that must be used with caution to avoid negatively impacting accessibility. This is because properties that reoder the visual display away from how things are ordered in the HTML document can affect visual order though not logical order which is the order used by screen readers to read out the content of a document that anyone navigating using the keyboard will follow. 
+  4. There are reasons to use flexbox over floats as flexbox was created to help overcome some of the problems of float. Positioning child elements becomes easier with flexbox. Flexbox is responsive and mobile-friendly. Flex container's margins do not collapse with the margins of its content.
+  5. This topic relates very much with my longterm goals and front-end development is my speciality and I want very much to become proficient in making efficient and effective responsive designs.
+
+[Main Page](https://cheryldee.github.io/reading-notes/)
