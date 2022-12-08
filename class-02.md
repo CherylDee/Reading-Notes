@@ -1,5 +1,5 @@
 ## [reading-notes](https://cheryldee.github.io/reading-notes/)
-[Main Page](https://cheryldee.github.io/reading-notes/)
+
 ### Basics of HTML, CSS & JS
 #### Intro HTML
 1. Semantics is used in HTML to give web pages meaning that is easily understood by developers and browsers. The use of easy to recognize tags such a 'p' for paragraph 'h' for headings, 'ul/ol' for lists makes it an easier to use markup language.
@@ -18,3 +18,5 @@
 5.  The _elseif_ statement runs when the condition is not met, then the 2nd if statement executes if the condition is met.
 6.  Three comparison operators:  ==, <, > 
 7.  Logical operator && is both conditions are true, and || is used is either condition is true.
+
+  [Main Page](https://cheryldee.github.io/reading-notes/)
