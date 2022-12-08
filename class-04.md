@@ -11,6 +11,7 @@
   3. Static positioning is the default of every HTML element and are not affected by the top, bottom, left, and right properties.
   4. Advantages of absolute positioning is cross-over browser support, uses document body only, removed from the flow.
   5. Fixed Position elements are completely independent of everything else on the web page; they are locked in position and always visible. Absolute is absolute. In this position, an element is placed with respect to themselves and it is excluded from the normal flow of the document.
+  
 #### Functions: Reusable blocks of code
   1. A function is a subprogram that returns a value. The data type of the value is the data type of the function. A function invocation (or call) is an expression, whose data type is that of the function. Before invoking a function, you must declare and define it.
   2. Use argument for a value or expression that contains data or code that's used with an operator or passed to a function. Use parameter for a value that's given to a variable and treated as a constant until the operation is completed.
