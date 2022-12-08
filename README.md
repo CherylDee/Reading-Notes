@@ -1,5 +1,5 @@
 # [reading-notes](https://cheryldee.github.io/reading-notes/)
-#### [Main Page](https://cheryldee.github.io/reading-notes/)
+
 ## Reading Assignment Notes
 _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my reading assignment notes, as well as this could be the future site of my Github portfolio, if and when I have something to show._
 ## Table of Contents
@@ -18,3 +18,5 @@ _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my re
   - [Chart.js, JS Canvas](https://cheryldee.github.io/reading-notes/class-12)
   - [Local Storage for Web Applications](https://cheryldee.github.io/reading-notes/class-13)
   - [CSS Transforms, Transitions &amp; Animations](https://cheryldee.github.io/reading-notes/class-14)
+
+#### [Main Page](https://cheryldee.github.io/reading-notes/)
