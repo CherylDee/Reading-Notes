@@ -1,5 +1,5 @@
 ## [reading-notes](https://cheryldee.github.io/reading-notes/)
-[Main Page](https://cheryldee.github.io/reading-notes/)
+
 ## The Web, Websites &amp; JavaScript
 ### 1. Getting Started: Poem
 ```
@@ -24,3 +24,5 @@
 10. Metadata is data that describes the information contained on a webpage or on the website which is used by search engines to find search matches as the engines "crawl" through web pages. SEO specializes in matching keywords.
 11. The meta tag typically contain keywords to help search engines find the information it's looking for on a webpage.
 12. The first step in designing a websute is to have a clear vision and plan to meet the purpose and goal of the website.
+
+[Main Page](https://cheryldee.github.io/reading-notes/)
