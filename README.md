@@ -1,9 +1,11 @@
 # [reading-notes](https://cheryldee.github.io/reading-notes/)
 
-## Reading Assignment Notes
+## Reading Notes
 _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my reading assignment notes, as well as this could be the future site of my Github portfolio, if and when I have something to show._
 ## Table of Contents
-**Code 201 Reading Notes**
+
+Code 201 - Foundations of Software Development
+
   - [The Web, Websites &amp; JavaScript](https://cheryldee.github.io/reading-notes/class-01)
   - [Intro to HTML, CSS, JS Conditionals](https://cheryldee.github.io/reading-notes/class-02)
   - [HTML Lists, Control Flow w/JS, CSS Box Model](https://cheryldee.github.io/reading-notes/class-03)
@@ -18,5 +20,11 @@ _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my re
   - [Chart.js, JS Canvas](https://cheryldee.github.io/reading-notes/class-12)
   - [Local Storage for Web Applications](https://cheryldee.github.io/reading-notes/class-13)
   - [CSS Transforms, Transitions &amp; Animations](https://cheryldee.github.io/reading-notes/class-14)
+
+Code 301 - Intermediate Software Development
+
+
+Code 401 - Advanced Software Development
+
 
 #### [Main Page](https://cheryldee.github.io/reading-notes/)
