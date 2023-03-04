@@ -10,7 +10,7 @@ _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my re
 
   - [The Web, Websites &amp; JavaScript](https://github.com/CherylDee/reading-notes/blob/main/class-01.md)
   - [Intro to HTML, CSS, JS Conditionals](https://github.com/CherylDee/reading-notes/blob/main/class-02.md)
-  - [HTML Lists, Control Flow w/JS, CSS Box Model](https://cheryldee.github.io/reading-notes/class-03.md)
+  - [HTML Lists, Control Flow w/JS, CSS Box Model](https://github.com/CherylDee/reading-notes/blob/main/class-03.md)
   - [HTML Links, JS Functions, CSS Layout](https://github.com/CherylDee/reading-notes/blob/main/class-04.md)
   - [Images, Color, Styling Text Elements](https://github.com/CherylDee/reading-notes/blob/main/class-05.md)
   - [Problem Domain, Objects, and the DOM](https://cheryldee.github.io/reading-notes/class-06)
