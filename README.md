@@ -4,7 +4,7 @@
 
 _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my reading assignment notes, as well as this could be the future site of my Github portfolio, if and when I have something to show._
 
-##Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
 
 ### Table of Contents
 
@@ -23,7 +23,7 @@ _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my re
   - [Local Storage for Web Applications](https://cheryldee.github.io/reading-notes/201-class-13)
   - [CSS Transforms, Transitions &amp; Animations](https://cheryldee.github.io/reading-notes/201-class-14)
 
-##Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
 ### Table of Contents
 
@@ -44,7 +44,7 @@ _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my re
   - [Authentication](https://cheryldee.github.io/reading-notes/301-class-15)
 
 
-##Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development
 
 ### Table of Contents
 
