@@ -1,6 +1,6 @@
 # [reading-notes](https://cheryldee.github.io/reading-notes/)
 
-## Reading Notes Introduction
+## Introduction
 
 _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my reading assignment notes, as well as this could be the future site of my Github portfolio, if and when I have something to show._
 
