@@ -1,11 +1,12 @@
 # [reading-notes](https://cheryldee.github.io/reading-notes/)
 
-## Reading Notes
+## Reading Notes Introduction
+
 _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my reading assignment notes, as well as this could be the future site of my Github portfolio, if and when I have something to show._
 
-Code 201 - Foundations of Software Development
+##Code 201 - Foundations of Software Development
 
-## Table of Contents
+### Table of Contents
 
   - [The Web, Websites &amp; JavaScript](https://cheryldee.github.io/reading-notes/201-class-01)
   - [Intro to HTML, CSS, JS Conditionals](https://cheryldee.github.io/reading-notes/201-class-02)
@@ -22,9 +23,9 @@ Code 201 - Foundations of Software Development
   - [Local Storage for Web Applications](https://cheryldee.github.io/reading-notes/201-class-13)
   - [CSS Transforms, Transitions &amp; Animations](https://cheryldee.github.io/reading-notes/201-class-14)
 
-Code 301 - Intermediate Software Development
+##Code 301 - Intermediate Software Development
 
-## Table of Contents
+### Table of Contents
 
   - [Introduction to React and Components](https://cheryldee.github.io/reading-notes/301-class-01)
   - [State and Props](https://cheryldee.github.io/reading-notes/301-class-02)
@@ -43,9 +44,9 @@ Code 301 - Intermediate Software Development
   - [Authentication](https://cheryldee.github.io/reading-notes/301-class-15)
 
 
-Code 401 - Advanced Software Development
+##Code 401 - Advanced Software Development
 
-## Table of Contents
+### Table of Contents
 
 
 
