@@ -1,4 +1,4 @@
-# [reading-notes](https://cheryldee.github.io/reading-notes/)
+# [Reading-Notes](https://cheryldee.github.io/reading-notes/)
 
 ## Introduction
 
