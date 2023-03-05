@@ -27,7 +27,7 @@ _Hi, I'm Cheryl and welcome to my Github Page. Here you will find links to my re
 
 ### Table of Contents
 
-  - [Introduction to React and Components](https://cheryldee.github.io/reading-notes/301-class-01)
+  - [Introduction to React and Components](https://github.com/CherylDee/reading-notes/blob/main/Code-301/class-01.md)
   - [State and Props](https://cheryldee.github.io/reading-notes/301-class-02)
   - [Passing Functions as Props](https://cheryldee.github.io/reading-notes/301-class-03)
   - [React and Forms](https://cheryldee.github.io/reading-notes/301-class-04)
